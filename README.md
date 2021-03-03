@@ -1,1 +1,1 @@
-# ATM
+The name of the program is Automatic Teller Machine (ATM). Initial screen ask for whether you are a current or new customer. In case of new customer, first user open a new account and then directed to login. In login part, the user is asked for id and a PIN. Each user will have access to deposit. The user is able to check balances, withdraw cash, and transfer money to other users. The user account information is stored in a file when the program terminates. This file is read in again when the program restarts.
